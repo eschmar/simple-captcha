@@ -8,7 +8,7 @@ Outputs an image and writes the captcha string into the session variable "captch
 
 ## Example
 
-![Simple Captcha](https://raw.github.com/simple-captcha/captcha.php.jpg)
+![Simple Captcha](https://raw.github.com/eschmar/simple-captcha/master/captcha.php.jpg)
 
 ## Usage
 
